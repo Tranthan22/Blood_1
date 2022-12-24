@@ -25,13 +25,13 @@ There are 3 temperature sensors which are put in a line
 - If signal is 1, line is recognized
 /*
 => 2^3 cases
--   no      |     case          |        position      |          respond          |
--   1             0 0 0                                          run back
--   2             0 1 0                                          go straight
--   3             1 1 0                                          turn left
--   4             1 0 0                                          turn left
--   5             0 1 1                                          turn right
--   6             0 0 1                                          turn right             
--   7             1 0 1                                          run back to check 
--   8             1 1 1                                          run back to check
+-                case          |        position      |          respond          |
+-                0 0 0                                          run back
+-                0 1 0                                          go straight
+-                1 1 0                                          turn left
+-                1 0 0                                          turn left
+-                0 1 1                                          turn right
+-                0 0 1                                          turn right             
+-                1 0 1                                          run back to check 
+-                1 1 1                                          run back to check
  */  
