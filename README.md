@@ -11,3 +11,10 @@ Motor car project with stm32. This will be a long during project, both learning 
 - Module Sensor determining line
 - Esp32
 - 4 active wheel, working independently
+
+***** Operation *****
+- Automatic:
+  + Travel on the black line
+  + without line, it gets to destination by position from rada. Find route to reach to terminal place
+- Manual:
+  + Moving in any direction, that controled by a controler
