@@ -23,7 +23,7 @@ Motor car project with stm32. This will be a long during project, both learning 
 There are 3 temperature sensors which are put in a line
 If signal is 0, no line is recognized
 If signal is 1, line is recognized
-
+/*
 => 2^3 cases
    no      |     case          |        position      |          respond          |
    1             0 0 0                                          run back
@@ -34,4 +34,4 @@ If signal is 1, line is recognized
    6             0 0 1                                          turn right             
    7             1 0 1                                          run back to check 
    8             1 1 1                                          run back to check
-   
+ */  
