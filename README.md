@@ -35,3 +35,8 @@ There are 3 temperature sensors which are put in a line
 -                1 0 1                                          run back to check 
 -                1 1 1                                          run back to check
  */  
+What do we need for preparing:
+1. Three sensors which are to find line
+2. A sensor which is to dectect abstacle
+3. Two H-bridge modules to control 4 active wheels
+4. A power block that need to provide 2 voltage level: 3.3v for microcontroler and 5v for motors
