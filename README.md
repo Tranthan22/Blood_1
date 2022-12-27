@@ -40,3 +40,11 @@ What do we need for preparing:
 2. A sensor which is to dectect abstacle
 3. Two H-bridge modules to control 4 active wheels
 4. A power block that need to provide 2 voltage level: 3.3v for microcontroler and 5v for motors
+
+
+
+
+
+
+/exercise for lecture
+differential op-amp for industry
