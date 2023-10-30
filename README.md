@@ -48,3 +48,11 @@ What do we need for preparing:
 
 /exercise for lecture
 differential op-amp for industry
+
+
+
+************* Switch *************
+- Đóng tắt đèn
+- kết nối wifi
+- có đồng hồ hiển thị OLED
+- 
